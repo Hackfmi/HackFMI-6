@@ -9,24 +9,23 @@ Total hours of presenting: 3.9
 * lunatic_pwnees
 * freeFly
 * Beer
-* Hexapod
+* Hexapod - CHECK
 * Kappa
 * Random
 * Toronto
 * RingRing
-* Team
+* Team TUES - CHECK
 * Отбор
-
 
 ## Group 2
 
-* The Rare Pees
+* The Rare Pees - CHECK
 * Counter
 * еГаси
 * Darth
 * Центрофуга - CHECK
-* Hello
-* We
+* Hello - CHECK
+* We Love C++ - CHECK
 * ХакНПМГ
 * BeerOverlords
 * Fenix
@@ -56,5 +55,5 @@ Total hours of presenting: 3.9
 * #ПодайМонстъраТам - CHECK
 * PhotoBooth - CHECK
 * PLACEHOLDER
-* Vse1
+* Vse1 - CHECK
 
