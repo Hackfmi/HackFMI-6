@@ -12,15 +12,15 @@ Total hours of presenting: 3.9
 * Hexapod - CHECK
 * Kappa
 * Random
-* Toronto
-* RingRing
+* Toronto - CHECK
+* RingRing - CHECK
 * Team TUES - CHECK
-* Отбор
+* Отбор Ж
 
 ## Group 2
 
 * The Rare Pees - CHECK
-* Counter
+* Counter Productive Unit - CHECK
 * еГаси
 * Darth
 * Центрофуга - CHECK
@@ -34,8 +34,8 @@ Total hours of presenting: 3.9
 ## Group 3
 
 * Home
-* NullPointerException
-* Last
+* NullPointerException - CHECK
+* Last Hope - CHECK
 * Swagrid
 * Smart Door - CHECK
 * #Бекон - CHECK
@@ -51,7 +51,7 @@ Total hours of presenting: 3.9
 * Backlight
 * The
 * Run, Code, Repeat
-* HeartCore
+* HeartCore - CHECK
 * #ПодайМонстъраТам - CHECK
 * PhotoBooth - CHECK
 * PLACEHOLDER
