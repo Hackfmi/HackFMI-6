@@ -13,7 +13,7 @@ Total hours of presenting ~ 2.4
 * Toronto - **CHECK**
 * RingRing - **CHECK**
 * Team TUES - **CHECK**
-* Отбор Ж
+* Отбор Ж - **CHECK**
 * Fenix
 * SEGFAULT
 
