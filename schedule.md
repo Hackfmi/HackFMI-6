@@ -1,8 +1,8 @@
-Total number of teams: 39
+Total number **checked teams**: 29
 
-Total minutes of presenting: 234
+Total minutes of presenting: 145
 
-Total hours of presenting: 3.9
+Total hours of presenting ~ 2.4
 
 ## Group 1
 
