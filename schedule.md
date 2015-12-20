@@ -6,30 +6,29 @@ Total hours of presenting: 3.9
 
 ## Group 1
 
-* lunatic_pwnees
 * freeFly
-* Beer
+* PLACEHOLDER
+* BeerOverlords
 * Hexapod - CHECK
-* Kappa
-* Random
+* Kappa - CHECK
 * Toronto - CHECK
 * RingRing - CHECK
 * Team TUES - CHECK
 * Отбор Ж
+* Fenix
 
 ## Group 2
 
 * The Rare Pees - CHECK
 * Counter Productive Unit - CHECK
-* еГаси
-* Darth
+* еГаси Тока - CHECK
+* Darth Vader - CHECK
 * Центрофуга - CHECK
 * Hello - CHECK
 * We Love C++ - CHECK
-* ХакНПМГ
+* ХакНПМГ - CHECK
 * BeerOverlords
-* Fenix
-
+* Random - CHECK
 
 ## Group 3
 
@@ -41,19 +40,19 @@ Total hours of presenting: 3.9
 * #Бекон - CHECK
 * ElRomantico - CHECK
 * Mythos
-* Далеци
+* Далеци - CHECK
 * SEGFAULT
 
 
 ## Group 4
 
-* Gadgets
+* Gadgets Masters
 * Backlight
 * The
 * Run, Code, Repeat
 * HeartCore - CHECK
 * #ПодайМонстъраТам - CHECK
 * PhotoBooth - CHECK
-* PLACEHOLDER
+* lunatic_pwnees - CHECK
 * Vse1 - CHECK
 
