@@ -19,11 +19,11 @@ Total hours of presenting ~ 2.4
 
 ## Group 2
 
+* Центрофуга - **CHECK**
 * The Rare Pees - **CHECK**
 * Counter Productive Unit - **CHECK**
 * еГаси Тока - **CHECK**
 * Darth Vader - **CHECK**
-* Центрофуга - **CHECK**
 * Hello - **CHECK**
 * We Love C++ - **CHECK**
 * ХакНПМГ - **CHECK**
