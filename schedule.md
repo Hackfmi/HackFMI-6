@@ -8,7 +8,6 @@ Total hours of presenting: 3.9
 
 * freeFly
 * PLACEHOLDER
-* BeerOverlords
 * Hexapod - CHECK
 * Kappa - CHECK
 * Toronto - CHECK
@@ -16,6 +15,7 @@ Total hours of presenting: 3.9
 * Team TUES - CHECK
 * Отбор Ж
 * Fenix
+* SEGFAULT
 
 ## Group 2
 
@@ -27,7 +27,7 @@ Total hours of presenting: 3.9
 * Hello - CHECK
 * We Love C++ - CHECK
 * ХакНПМГ - CHECK
-* BeerOverlords
+* Beer - CHECK
 * Random - CHECK
 
 ## Group 3
@@ -39,15 +39,14 @@ Total hours of presenting: 3.9
 * Smart Door - CHECK
 * #Бекон - CHECK
 * ElRomantico - CHECK
-* Mythos
+* Mythos - CHECK
 * Далеци - CHECK
-* SEGFAULT
-
+* BeerOverlords - CHECK
 
 ## Group 4
 
 * Gadgets Masters
-* Backlight
+* Backlight - CHECK
 * The
 * Run, Code, Repeat
 * HeartCore - CHECK
