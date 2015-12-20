@@ -45,7 +45,7 @@ Total hours of presenting ~ 2.4
 
 ## Group 4
 
-* Gadgets Masters
+* Vse1 - **CHECK**
 * Backlight - **CHECK**
 * The Force Autoruns
 * Run, Code, Repeat
@@ -53,5 +53,5 @@ Total hours of presenting ~ 2.4
 * #ПодайМонстъраТам - **CHECK**
 * PhotoBooth - **CHECK**
 * lunatic_pwnees - **CHECK**
-* Vse1 - **CHECK**
+* Gadgets Masters
 
