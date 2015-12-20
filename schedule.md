@@ -20,11 +20,11 @@ Total hours of presenting: 3.9
 
 ## Group 2
 
-* The
+* The Rare Pees
 * Counter
 * еГаси
 * Darth
-* Центрофуга
+* Центрофуга - CHECK
 * Hello
 * We
 * ХакНПМГ
@@ -38,9 +38,9 @@ Total hours of presenting: 3.9
 * NullPointerException
 * Last
 * Swagrid
-* Smart
-* #Бекон
-* ElRomantico
+* Smart Door - CHECK
+* #Бекон - CHECK
+* ElRomantico - CHECK
 * Mythos
 * Далеци
 * SEGFAULT
@@ -53,8 +53,8 @@ Total hours of presenting: 3.9
 * The
 * Run, Code, Repeat
 * HeartCore
-* #ПодайМонстъраТам
-* Photo
+* #ПодайМонстъраТам - CHECK
+* PhotoBooth - CHECK
 * PLACEHOLDER
 * Vse1
 
