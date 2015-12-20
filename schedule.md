@@ -32,7 +32,7 @@ Total hours of presenting: 3.9
 
 ## Group 3
 
-* Home
+* Home Disco
 * NullPointerException - CHECK
 * Last Hope - CHECK
 * Swagrid
@@ -47,7 +47,7 @@ Total hours of presenting: 3.9
 
 * Gadgets Masters
 * Backlight - CHECK
-* The
+* The Force Autoruns
 * Run, Code, Repeat
 * HeartCore - CHECK
 * #ПодайМонстъраТам - CHECK
